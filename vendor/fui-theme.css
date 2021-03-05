@@ -594,6 +594,9 @@
 /* Placeholder state */
 /* Component's site.variables */
 /* Site theme site.variables */
+/*******************************
+     User Global Variables
+*******************************/
 /*-------------------
  Component Variables
 ---------------------*/
@@ -606,6 +609,9 @@
              Reset
 *******************************/
 /* Site Theme */
+/*******************************
+     User Global Variables
+*******************************/
 /*-------------------------
     Central Color Map
 -------------------------*/
@@ -954,6 +960,9 @@ template {
 [hidden] {
   display: none;
 }
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI - Site
  * http://github.com/fomantic/Fomantic-UI/
@@ -1538,6 +1547,9 @@ template {
 /* Placeholder state */
 /* Component's site.variables */
 /* Site theme site.variables */
+/*******************************
+     User Global Variables
+*******************************/
 /*-------------------
  Component Variables
 ---------------------*/
@@ -2074,6 +2086,9 @@ template {
 /* Focused state */
 /* Placeholder state */
 /* Site Theme */
+/*******************************
+     User Global Variables
+*******************************/
 /*-------------------------
     Central Color Map
 -------------------------*/
@@ -2256,6 +2271,9 @@ body .ui.inverted:not(.dimmer)::-webkit-scrollbar-thumb:hover {
 }
 /*******************************
         Global Overrides
+*******************************/
+/*******************************
+         Site Overrides
 *******************************/
 /* Elements */
 /*
@@ -2861,6 +2879,9 @@ body .ui.inverted:not(.dimmer)::-webkit-scrollbar-thumb:hover {
 /* Placeholder state */
 /* Component's site.variables */
 /* Site theme site.variables */
+/*******************************
+     User Global Variables
+*******************************/
 /*-------------------
  Component Variables
 ---------------------*/
@@ -2913,7 +2934,7 @@ span.ui.inverted.primary.text {
   color: #54C8FF;
 }
 span.ui.secondary.text {
-  color: #1B1C1D;
+  color: yellow;
 }
 span.ui.inverted.secondary.text {
   color: #545454;

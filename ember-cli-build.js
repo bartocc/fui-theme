@@ -14,6 +14,7 @@ module.exports = function(defaults) {
     lessOptions: {
       paths: [
         "/private/tmp/foobar/node_modules/fomantic-ui-less",
+        "/private/tmp/foobar/app/styles/semantic",
         "/private/tmp/foobar/app/styles/semantic/foo/bar"
       ]
     }
