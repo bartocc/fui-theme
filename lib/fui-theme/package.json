@@ -4,6 +4,7 @@
     "ember-addon"
   ],
   "dependencies": {
+    "debug": "*",
     "ember-cli-babel": "*",
     "fomantic-ui-less": "*"
   }
