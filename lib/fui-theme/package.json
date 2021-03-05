@@ -1,0 +1,10 @@
+{
+  "name": "fui-theme",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-babel": "*",
+    "fomantic-ui-less": "*"
+  }
+}
