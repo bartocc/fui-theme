@@ -12,7 +12,7 @@
   },
   "scripts": {
     "build": "ember build --environment=production",
-    "build:fui-theme": "BUILD_FUI_THEME=1 yarn build --environment=production",
+    "build:fui-theme": "scripts/build-fui-theme.sh",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
     "lint:hbs": "ember-template-lint .",
     "lint:js": "eslint .",
@@ -45,7 +45,6 @@
     "ember-resolver": "^8.0.0",
     "ember-source": "~3.19.0",
     "ember-template-lint": "^2.8.0",
-    "ember-welcome-page": "^4.0.0",
     "eslint": "^7.1.0",
     "eslint-plugin-ember": "^8.6.0",
     "eslint-plugin-node": "^11.1.0",
